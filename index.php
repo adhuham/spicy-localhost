@@ -3,7 +3,7 @@
  * 27-05-2019
  *
  * Copyright 2019 Mohamed Adhuham 
- * Released under MIT License
+ * Released under GPLv3
  *
  */
 
