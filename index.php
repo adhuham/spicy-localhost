@@ -2,7 +2,11 @@
 /**
  * 27-05-2019
  *
- * Copyright 2019 Mohamed Adhuham 
+ * Spicy Localhost
+ * ---------------
+ * Spice up your localhost index page
+ *
+ * Copyright 2019 Mohamed Adhuham <hello@adhuham.com> 
  * Released under GPLv3
  *
  */
