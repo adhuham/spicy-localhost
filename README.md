@@ -8,6 +8,7 @@ Just replace 'index.php' with Apache's default 'index.html' file in the server r
 Spicy Localhost is intended to use in Apache, PHP and MySQL (LAMP, WAMP, MAMP) environments. It might as well work in an Nginx environment instead of Apache but with few tweaks.
 
 ## Screenshot
+![alt tag](https://raw.githubusercontent.com/adhuham/spicy-localhost/master/assets/screenshot.png)
 
 ## License
 Spicy Localhost is released under [GNU General Public License V3](https://github.com/adhuham/spicy-localhost/blob/master/LICENSE.txt)
