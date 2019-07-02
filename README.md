@@ -1,4 +1,4 @@
-# Spicy Localhost
+# 🔥 Spicy Localhost
 Spice up your localhost index page with a beautiful terminal-like UI. A better alternative to localhost's default index page.
 
 ## Install
