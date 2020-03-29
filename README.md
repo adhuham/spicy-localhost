@@ -1,6 +1,6 @@
-# 🔥 Spicy Localhost
 > ### 🎉 Checkout a new and improved version of this project [Modern Localhost](https://github.com/adhuham/modern-localhost)
 ---
+# 🔥 Spicy Localhost
 Spice up your localhost index page with a beautiful terminal-like UI. A better alternative to localhost's default index page.
 
 ## Install
